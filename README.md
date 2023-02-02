@@ -1,4 +1,4 @@
-# November Coffee Chat Member
+# November Coffee-Chat 
 
 사내 커피챗 모임 멤버 구성
 
